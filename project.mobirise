@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-12-14_1533",
+    "name": "uiux",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,9 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 7,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
